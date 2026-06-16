@@ -634,10 +634,7 @@ Built by Team ByteCoder.
 
 Contributors:
 
-- Gautam Sagar
-- Gaurav Gautam
 - Manjeet Varun
-- Sumit Mathur
 
 ## License
 
